@@ -1,0 +1,28 @@
+:root {
+  --vp-home-hero-name-background: transparent;
+}
+
+.VPHero {
+  position: relative;
+  isolation: isolate;
+}
+
+.VPHero::before {
+  content: '';
+  position: absolute;
+  top: 53%;
+  left: 67%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+  height: 55%;
+  background: radial-gradient(
+    circle at center,
+    rgba(37, 99, 235, 0.3) 0%,
+    rgba(232, 121, 249, 0.2) 85%,
+    rgba(0, 0, 0, 0) 70%
+  );
+  filter: blur(40px);
+  z-index: -1;
+  pointer-events: none;
+  border-radius: 50%;
+}

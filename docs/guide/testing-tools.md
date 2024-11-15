@@ -39,16 +39,17 @@ lighthouse https://example.com --view
 
 ## Lecteurs d'écran
 
-1. **NVDA** (Windows, Gratuit)
+1. **VoiceOver** (macOS, Intégré)
+
+   - Activation : Cmd + F5
+   - Navigation : Ctrl + Alt + flèches
+   - Lecture : Ctrl + Alt + A
+
+2. **NVDA** (Windows, Gratuit)
 
    - Raccourcis principaux
    - Test de navigation
    - Vérification des alternatives
-
-2. **VoiceOver** (macOS, Intégré)
-   - Activation : Cmd + F5
-   - Navigation : Ctrl + Alt + flèches
-   - Lecture : Ctrl + Alt + A
 
 ## Outils de contraste
 

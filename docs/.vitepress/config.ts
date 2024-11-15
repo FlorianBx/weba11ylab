@@ -1,7 +1,10 @@
 export default {
+  base: '/',
   title: 'Guide Accessibilité Web',
   description: "Un guide complet sur l'accessibilité web",
+  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
+    logo: '/logo.png',
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Guide', link: '/guide/' },

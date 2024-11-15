@@ -100,5 +100,3 @@ Une structure HTML sémantique fournit du sens et du contexte au contenu, aidant
 <h2>Section majeure</h2>
 <h3>Sous-section</h3>
 ```
-
-Je continue avec les dernières pages dans le prochain message...

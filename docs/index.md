@@ -6,14 +6,16 @@ hero:
   name: Accessibilité Web
   text: Guide complet des bonnes pratiques
   tagline: Pour des sites web accessibles à tous
+  image:
+    src: /logo.png
+    alt: Logo Accessibilité Web
   actions:
     - theme: brand
       text: Débuter
       link: /guide/introduction
     - theme: alt
       text: GitHub
-      link: https://github.com/votre-repo/docs-accessibilite
-
+      link: https://github.com/FlorianBx/doc-accessibility
 features:
   - icon: 🎯
     title: Principes POUR
