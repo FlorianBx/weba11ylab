@@ -1,75 +1,101 @@
-# WebA11yLab
-
 <p align="center">
-<img src="https://github.com/user-attachments/assets/768bc948-1ab2-42f0-a526-2b16ad391e87" width="10%" style="text-align: center;" />
+<img src="https://github.com/user-attachments/assets/48e2b967-dd7c-495a-ad9a-345af7e0d812" height="150" alt="Logo WebA11yLab">
 </p>
 
-**[📚 Documentation](https://weba11ylab.netlify.app/)**
+<h1 align="center">WebA11yLab</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/440f7faf-b150-4ed5-acdd-38c4609b3e7a/deploy-status)](https://app.netlify.com/sites/weba11ylab/deploys)
-[![Discord](https://img.shields.io/discord/1307155551070851122?color=%237289DA&label=discord&logo=discord&logoColor=white)](https://discord.gg/3WXrCedX4s)
+<p align="center">Documentation collaborative pour rendre le web accessible à tous</p>
 
+<p align="center">
+  <a href="https://github.com/FlorianBx/weba11ylab/blob/main/README.md#contributeurs"><img src="https://img.shields.io/github/contributors/FlorianBx/weba11ylab?color=3A8EBA&style=flat-square" alt="Contributors"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-pink.svg" alt="License"></a>
+  <a href="https://app.netlify.com/sites/weba11ylab/deploys"><img src="https://api.netlify.com/api/v1/badges/440f7faf-b150-4ed5-acdd-38c4609b3e7a/deploy-status" alt="Netlify Status"></a>
+</p>
 
-## 🎯 Vision
+<p align="center">
+  <b><a href="https://discord.gg/6zBCHhc2">Rejoignez la communauté !</a></b>
+</p>
 
-L'accessibilité web est souvent perçue comme complexe, avec une documentation dispersée. WebA11yLab propose une ressource centralisée et pédagogique pour maîtriser ses concepts clés.
+<p align="center">
+  <a href="https://weba11ylab.netlify.app">Documentation</a> |
+  <a href="CONTRIBUTING.md">Guide de contribution</a> |
+  <a href="CODE_OF_CONDUCT.md">Code de conduite</a>
+</p>
 
-## ✨ Caractéristiques
+<br>
 
-- 📚 **Centralisée** : Un point d'entrée unique vers les bonnes pratiques
-- 🎓 **Pédagogique** : Explications claires et exemples concrets  
-- 🌱 **Évolutive** : Enrichie par l'expertise de la communauté
-- 🤝 **Collaborative** : Ouverte aux contributions de tous
+## Ressources disponibles
 
-## 🚀 Démarrage
+- Guide d'accessibilité complet
+- Exemples de code pratiques
+- Checklists de conformité
+- Bonnes pratiques WCAG & ARIA
+- Tests d'accessibilité
 
-1. **Explorez** la [documentation](https://weba11ylab.netlify.app/)
-2. **Échangez** sur [Discord](https://discord.gg/3WXrCedX4s)
-3. **Participez** en suivant le guide ci-dessous
+## Objectif
 
-## 🤝 Contribuer
+Le projet vise à centraliser et simplifier l'apprentissage de l'accessibilité web en proposant une documentation claire, pratique et communautaire. 
 
-Votre expertise est précieuse, quel que soit votre niveau !
+Dans son état actuel, le projet se concentre sur :
 
-### Guide rapide
+- Les standards d'accessibilité (WCAG, ARIA)
+- Les bonnes pratiques de développement
+- Les tests d'accessibilité
+- Les outils et ressources communautaires
 
-1. Fork du projet
-2. Création de votre branche (`git checkout -b feature/maContribution`)
-3. Commit des changements (`git commit -m 'Ajout d'exemples ARIA'`)
-4. Push (`git push origin feature/maContribution`)
-5. Ouverture d'une Pull Request
+## Contribuer
 
-### Types d'apports
+Pour contribuer au projet :
 
-- 📝 Nouvelle documentation
-- 🐛 Corrections
-- 💡 Exemples pratiques
-- 🌐 Traductions
-- 👀 Revues
+1. Lisez notre [guide de contribution](CONTRIBUTING.md)
+2. Consultez notre [code de conduite](CODE_OF_CONDUCT.md)
+3. Rejoignez notre [Discord](https://discord.gg/6zBCHhc2) pour échanger
+4. Explorez les [issues](https://github.com/FlorianBx/weba11ylab/issues) existantes
 
-### Bonnes pratiques
+## Licence
 
-- Style clair et concis
-- Exemples testés
-- Demande d'aide si besoin sur Discord
+Ce projet utilise la [licence MIT](LICENSE.md), à l'exception des éventuels logos et marques déposées qui pourraient être inclus dans la documentation.
 
-## 🏗️ Structure
+## Contributeurs
 
-```
-docs/
-├── introduction/     # Concepts fondamentaux
-├── guide/            # Guides pratiques
-├── checklist/        # Vérifications
-├── examples/         # Démonstrations
-└── resources/        # Outils et références
-```
+> Nous remercions tous les contributeurs, qu'ils aient participé au code, à la documentation ou aux discussions. Chaque contribution enrichit ce projet.
 
-## 💬 Échanges
-
-- [Discord](https://discord.gg/3WXrCedX4s) - Questions et discussions
-- [Issues GitHub](https://github.com/FlorianBx/weba11ylab/issues) - Bugs et améliorations
-- [Discussions GitHub](https://github.com/FlorianBx/weba11ylab/discussions) - Réflexions approfondies
-
-## 📜 Licence
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://linkfree.io/grand-rick001">
+        <img src="https://avatars.githubusercontent.com/u/25250981?v=4" width="150px;" height="150px;" alt="Florian Beaumont"/>
+        <br />
+        <sub>
+          <a href="https://github.com/FlorianBx" title="Github"><b>Florian Beaumont</b></a>
+        </sub>
+      </a>
+        <br />
+        <br />
+        <p>Creator 🚀</p>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/rlmestre">
+          <img src="https://avatars.githubusercontent.com/u/45575430?v=4" width="150px;" height="150px;" alt="Maryline Renaud"/>
+          <br />
+          <sub>
+            <a href="https://github.com/rmarye90" title="Github"><b>Maryline Renaud</b></a>
+          </sub>
+        </a>
+        <br />
+        <br />
+        <p>Contributor ⭐️</p>
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
