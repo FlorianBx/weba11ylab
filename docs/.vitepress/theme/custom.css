@@ -10,11 +10,11 @@
 .VPHero::before {
   content: '';
   position: absolute;
-  top: 53%;
-  left: 67%;
+  top: 73%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  width: 25%;
-  height: 55%;
+  width: 85%;
+  height: 100%;
   background: radial-gradient(
     circle at center,
     rgba(37, 99, 235, 0.3) 0%,
@@ -25,4 +25,5 @@
   z-index: -1;
   pointer-events: none;
   border-radius: 50%;
+  opacity: 0.5;
 }
