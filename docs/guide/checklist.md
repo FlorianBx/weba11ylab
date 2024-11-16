@@ -8,6 +8,8 @@
 - [ ] Hiérarchie des titres cohérente (H1-H6)
 - [ ] Landmarks ARIA appropriés
 - [ ] Skip links présents
+- [ ] Attribut `lang` sur le `html`
+- [ ] Pas d'overlaps visuels entre les éléments avec le zoom à 200%
 
 ### ⌨️ Navigation au clavier
 

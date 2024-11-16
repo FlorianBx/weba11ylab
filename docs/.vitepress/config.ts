@@ -1,6 +1,6 @@
 export default {
   base: '/',
-  title: 'Guide Accessibilité Web',
+  title: 'WebA11yLab',
   description: "Un guide complet sur l'accessibilité web",
   head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
