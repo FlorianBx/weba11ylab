@@ -54,5 +54,9 @@ export default {
         ],
       },
     ],
+    editLink: {
+      pattern: 'https://github.com/FlorianBx/doc-accessibility/edit/main/docs/:path',
+      text: 'Modifier cette page sur GitHub',
+    },
   },
 }

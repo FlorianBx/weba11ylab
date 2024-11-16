@@ -3,7 +3,7 @@ layout: home
 sidebar: false
 
 hero:
-  name: Accessibilité Web
+  name: WebA11yLab
   text: Guide complet des bonnes pratiques
   tagline: Pour des sites web accessibles à tous
   image:
