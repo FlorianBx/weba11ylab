@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://weba11ylab.netlify.app">Documentation</a> |
+  <a href="https://weba11ylab.dev">Documentation</a> |
   <a href="CONTRIBUTING.md">Guide de contribution</a> |
   <a href="CODE_OF_CONDUCT.md">Code de conduite</a>
 </p>
