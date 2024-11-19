@@ -33,7 +33,7 @@ Les responsables du projet :
 
 ## Application
 
-Les cas de comportement abusif peuvent être signalés à [CONTACT].
+Les cas de comportement abusif peuvent être signalés à [contact@weba11y.com](park-inset0b@icloud.com).<br />
 Chaque signalement sera examiné avec attention.
 
 ## Mesures de Correction
@@ -42,7 +42,6 @@ En cas de non-respect du code de conduite :
 
 1. **Correction**
    - Avertissement écrit
-   - Possibilité de demande d'excuses
 
 2. **Avertissement**
    - Suspension temporaire des interactions
@@ -55,7 +54,7 @@ En cas de non-respect du code de conduite :
 
 ## Attribution
 
-Adapté du [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+Adapté du [Contributor Covenant](park-inset0b@icloud.com), version 2.1.
 
 ---
-*Questions ou préoccupations : [CONTACT]*
+*Questions ou préoccupations : [contact@weba11y.com](park-inset0b@icloud.com)*
