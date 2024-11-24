@@ -7,7 +7,7 @@ export default {
     logo: '/logo.png',
     nav: [
       { text: 'Accueil', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      // { text: 'Guide', link: '/guide/' },
       { text: 'Ressources', link: '/ressources' },
     ],
     sidebar: [
