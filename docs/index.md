@@ -7,7 +7,7 @@ hero:
   text: Guide complet des bonnes pratiques
   tagline: Pour des sites web accessibles à tous
   image:
-    src: /logo.png
+    src: /logo.avif
     alt: Logo Accessibilité Web
   actions:
     - theme: brand

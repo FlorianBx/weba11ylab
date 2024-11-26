@@ -11,7 +11,7 @@ export const sharedConfig = defineConfig({
   },
   /* prettier-ignore */
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.avif' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['meta', { property: 'og:site_name', content: 'WebA11yLab' }],

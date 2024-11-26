@@ -10,10 +10,10 @@ Le contenu doit être présenté de manière à être perçu par tous les utilis
 
 ```html
 <!-- Bon exemple -->
-<img src="logo.png" alt="Logo de l'entreprise XYZ" />
+<img src="logo.avif" alt="Logo de l'entreprise XYZ" />
 
 <!-- Mauvais exemple -->
-<img src="logo.png" />
+<img src="logo.avif" />
 ```
 
 ### 2. Contenu multimédia temporel

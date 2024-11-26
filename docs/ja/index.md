@@ -7,7 +7,7 @@ hero:
   text: guide on accessible web
   tagline: For accessible websites to all
   image:
-    src: /logo.png
+    src: /logo.avif
     alt: accessibility web logo
   actions:
     - theme: brand

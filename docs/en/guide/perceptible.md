@@ -10,9 +10,9 @@ Content must be presented in ways that all users can perceive, regardless of the
 
 ```html
 <!-- Good example -->
-<img src="logo.png" alt="XYZ Company Logo" />
+<img src="logo.avif" alt="XYZ Company Logo" />
 <!-- Bad example -->
-<img src="logo.png" />
+<img src="logo.avif" />
 ```
 
 ### 2. Time-based Media

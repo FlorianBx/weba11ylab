@@ -18,7 +18,6 @@ export const fr = defineConfig({
   base: '/',
   title: 'WebA11yLab',
   description: "Un guide complet sur l'accessibilité web",
-  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
     nav: nav(),
     sidebar: sidebar(),

@@ -6,7 +6,7 @@ hero:
   text: Comprehensive Web Accessibility Guide
   tagline: Building inclusive digital experiences for everyone
   image:
-    src: /logo.png
+    src: /logo.avif
     alt: Web accessibility logo
   actions:
     - theme: brand
