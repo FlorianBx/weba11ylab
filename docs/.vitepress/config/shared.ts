@@ -3,7 +3,26 @@ import { defineConfig } from 'vitepress'
 export const currentRelease = 'v.0.10.0'
 
 export const sharedConfig = defineConfig({
-  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
+  sitemap: {
+    hostname: 'https://vitepress.dev',
+    transformItems(items) {
+      return items.filter((item) => !item.url.includes('migration'))
+    },
+  },
+  /* prettier-ignore */
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
+    ['meta', { property: 'og:site_name', content: 'WebA11yLab' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { name: 'author', content: 'Florian Beaumont' }],
+    ['meta', { name: 'description', content: 'Laboratoire d’accessibilité et bonnes pratiques.' }],
+    ['meta', { property: 'og:title', content: 'WebA11yLab' }],
+    ['meta', { property: 'og:description', content: 'Laboratoire d’accessibilité et bonnes pratiques.' }],
+    ['meta', { property: 'og:url', content: 'https://weba11ylab.dev' }],
+    ['meta', { property: 'og:image', content: 'https://weba11ylab.dev/og-image.png' }],
+  ],
   themeConfig: {
     logo: '/logo.png',
     search: {
