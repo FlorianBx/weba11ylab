@@ -20,24 +20,15 @@ export const fr = defineConfig({
   description: "Un guide complet sur l'accessibilité web",
   head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
-    search: {
-      provider: 'local',
-    },
-    logo: '/logo.png',
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/FlorianBx/weba11ylab' },
-      { icon: 'discord', link: 'https://discord.gg/4uMdkdht' },
-      { icon: 'bluesky', link: 'https://bsky.app/profile/florianbx.bsky.social' },
-    ],
     nav: nav(),
     sidebar: sidebar(),
-    editLink: {
-      pattern: 'https://github.com/FlorianBx/doc-accessibility/edit/main/docs/:path',
-      text: 'Modifier cette page sur GitHub',
-    },
     footer: {
       message: 'Publié sous la licence MIT.',
       copyright: 'Copyright © 2024-present Florian Beaumont',
+    },
+    editLink: {
+      pattern: 'https://github.com/FlorianBx/doc-accessibility/edit/main/docs/:path',
+      text: 'Modifier cette page sur GitHub',
     },
   },
 })

@@ -18,26 +18,16 @@ export const en = defineConfig({
   base: '/en/',
   title: 'WebA11yLab',
   description: 'A comprehensive guide to web accessibility',
-  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
-    logo: '/logo.png',
-    search: {
-      provider: 'local',
-    },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/FlorianBx/weba11ylab' },
-      { icon: 'discord', link: 'https://discord.gg/4uMdkdht' },
-      { icon: 'bluesky', link: 'https://bsky.app/profile/florianbx.bsky.social' },
-    ],
     nav: nav(),
     sidebar: sidebar(),
-    editLink: {
-      pattern: 'https://github.com/FlorianBx/doc-accessibility/edit/main/docs/:path',
-      text: 'Edit this page on GitHub',
-    },
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present Florian Beaumont',
+    },
+    editLink: {
+      pattern: 'https://github.com/FlorianBx/doc-accessibility/edit/main/docs/:path',
+      text: 'Edit this page on GitHub',
     },
   },
 })
