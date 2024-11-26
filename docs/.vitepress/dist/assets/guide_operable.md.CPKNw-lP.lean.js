@@ -11,3 +11,4 @@ import{_ as s,o as a,c as t,a0 as n}from"./chunks/framework.CwR-YdiG.js";const E
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">    &#39;button, [href], input, select, textarea, [tabindex]:not([tabindex=&quot;-1&quot;])&#39;</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  )</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span></code></pre></div>`,19)]))}const c=s(l,[["render",e]]);export{E as __pageData,c as default};
+//# sourceMappingURL=guide_operable.md.CPKNw-lP.js.map

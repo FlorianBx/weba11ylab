@@ -80,3 +80,4 @@ import{_ as i,o as a,c as n,a0 as h}from"./chunks/framework.CwR-YdiG.js";const g
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    }</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  })</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span></code></pre></div>`,14)]))}const y=i(t,[["render",k]]);export{g as __pageData,y as default};
+//# sourceMappingURL=guide_forms.md.DQ_YP-Ki.js.map

@@ -34,3 +34,4 @@ import{_ as i,o as a,c as n,a0 as l}from"./chunks/framework.CwR-YdiG.js";const o
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">      break</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  }</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span></code></pre></div><h2 id="tests" tabindex="-1">Tests <a class="header-anchor" href="#tests" aria-label="Permalink to &quot;Tests&quot;">​</a></h2><ol><li>Débrancher la souris</li><li>Vérifier la visibilité du focus</li><li>Tester tous les éléments interactifs</li><li>Vérifier les pièges au clavier</li></ol>`,14)]))}const g=i(t,[["render",e]]);export{o as __pageData,g as default};
+//# sourceMappingURL=guide_keyboard.md.Dq_QDlUo.js.map
