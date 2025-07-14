@@ -1,60 +1,62 @@
-# Code de Conduite
+# Code of Conduct
 
-## Engagement
+## Commitment
 
-Ce projet s'engage à offrir une expérience sans harcèlement pour tous les contributeurs, quels que soient l'âge, le handicap visible ou invisible, l'ethnicité, l'identité et l'expression de genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence, la religion ou l'orientation sexuelle.
+This project is committed to providing a harassment-free experience for all contributors, regardless of age, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, appearance, religion, or sexual orientation.
 
-L'objectif est de créer un environnement ouvert, accueillant, diverse et sain pour tous les participants.
+The goal is to foster an open, welcoming, diverse, and healthy environment for all participants.
 
 ## Standards
 
-Les comportements encouragés :
+Encouraged behavior:
 
-* Faire preuve d'empathie et de bienveillance
-* Respecter les différentes opinions et expériences
-* Accepter les retours constructifs avec ouverture
-* Assumer ses responsabilités et apprendre de ses erreurs
-* Privilégier l'intérêt collectif
+* Show empathy and kindness  
+* Respect different opinions and experiences  
+* Receive constructive feedback with openness  
+* Take responsibility and learn from mistakes  
+* Prioritize the collective interest  
 
-Comportements inacceptables :
+Unacceptable behavior:
 
-* Langage ou images à caractère sexuel
-* Trolling, commentaires insultants et attaques personnelles
-* Harcèlement public ou privé
-* Publication d'informations privées sans consentement
-* Comportements inappropriés en contexte professionnel
+* Sexualized language or imagery  
+* Trolling, insulting comments, and personal attacks  
+* Public or private harassment  
+* Publishing others’ private information without consent  
+* Inappropriate conduct in professional settings  
 
-## Responsabilités
+## Responsibilities
 
-Les responsables du projet :
-- Clarifient les standards de comportement acceptable
-- Prennent les mesures appropriées face aux comportements inacceptables
-- Ont le droit de supprimer, modifier ou rejeter les contributions non conformes
+Project maintainers:
 
-## Application
+- Clarify standards of acceptable behavior  
+- Take appropriate action in response to unacceptable behavior  
+- Reserve the right to remove, edit, or reject contributions that violate this code  
 
-Les cas de comportement abusif peuvent être signalés à [contact@weba11y.com](park-inset0b@icloud.com).<br />
-Chaque signalement sera examiné avec attention.
+## Enforcement
 
-## Mesures de Correction
+Incidents of abusive behavior may be reported to [contact@weba11y.com](mailto:park-inset0b@icloud.com).  
+All reports will be reviewed carefully.
 
-En cas de non-respect du code de conduite :
+## Enforcement Measures
 
-1. **Correction**
-   - Avertissement écrit
+In case of violation of the code of conduct:
 
-2. **Avertissement**
-   - Suspension temporaire des interactions
+1. **Correction**  
+   - Written warning  
 
-3. **Exclusion Temporaire**
-   - Suspension à durée déterminée
+2. **Warning**  
+   - Temporary suspension of participation  
 
-4. **Exclusion Permanente**
-   - En cas de violations graves ou répétées
+3. **Temporary Ban**  
+   - Fixed-term suspension  
+
+4. **Permanent Ban**  
+   - In cases of serious or repeated violations  
 
 ## Attribution
 
-Adapté du [Contributor Covenant](park-inset0b@icloud.com), version 2.1.
+Adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
 
 ---
-*Questions ou préoccupations : [contact@weba11y.com](park-inset0b@icloud.com)*
+
+*Questions or concerns: [contact@weba11y.com](mailto:park-inset0b@icloud.com)*
