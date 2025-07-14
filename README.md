@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/48e2b967-dd7c-495a-ad9a-345af7e0d812" height="150" alt="Logo WebA11yLab">
+<img src="https://github.com/user-attachments/assets/48e2b967-dd7c-495a-ad9a-345af7e0d812" height="150" alt="WebA11yLab Logo">
 </p>
 
 <h1 align="center">WebA11yLab</h1>
 
-<p align="center">Documentation collaborative pour rendre le web accessible à tous</p>
+<p align="center">Collaborative documentation to make the web accessible to everyone</p>
 
 <p align="center">
   <a href="https://github.com/FlorianBx/weba11ylab/blob/main/README.md#contributeurs"><img src="https://img.shields.io/github/contributors/FlorianBx/weba11ylab?color=3A8EBA&style=flat-square" alt="Contributors"></a>
@@ -13,52 +13,52 @@
 </p>
 
 <p align="center">
-  <b><a href="https://discord.gg/6zBCHhc2">Rejoignez la communauté !</a></b>
+  <b><a href="https://discord.gg/6zBCHhc2">Join the community!</a></b>
 </p>
 
 <p align="center">
   <a href="https://weba11ylab.dev">Documentation</a> |
-  <a href="CONTRIBUTING.md">Guide de contribution</a> |
-  <a href="CODE_OF_CONDUCT.md">Code de conduite</a>
+  <a href="CONTRIBUTING.md">Contribution Guide</a> |
+  <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
 <br>
 
-## Ressources disponibles
+## Available Resources
 
-- Guide d'accessibilité complet
-- Exemples de code pratiques
-- Checklists de conformité
-- Bonnes pratiques WCAG & ARIA
-- Tests d'accessibilité
+- Comprehensive accessibility guide  
+- Practical code examples  
+- Compliance checklists  
+- WCAG & ARIA best practices  
+- Accessibility testing
 
-## Objectif
+## Goal
 
-Le projet vise à centraliser et simplifier l'apprentissage de l'accessibilité web en proposant une documentation claire, pratique et communautaire. 
+The project aims to centralize and simplify learning about web accessibility by offering clear, practical, and community-driven documentation.
 
-Dans son état actuel, le projet se concentre sur :
+Currently, the project focuses on:
 
-- Les standards d'accessibilité (WCAG, ARIA)
-- Les bonnes pratiques de développement
-- Les tests d'accessibilité
-- Les outils et ressources communautaires
+- Accessibility standards (WCAG, ARIA)  
+- Development best practices  
+- Accessibility testing  
+- Community tools and resources
 
-## Contribuer
+## Contribute
 
-Pour contribuer au projet :
+To contribute to the project:
 
-1. Lisez notre [guide de contribution](CONTRIBUTING.md)
-2. Consultez notre [code de conduite](CODE_OF_CONDUCT.md)
-3. Rejoignez notre [Discord](https://discord.gg/6zBCHhc2) pour échanger
-4. Explorez les [issues](https://github.com/FlorianBx/weba11ylab/issues) existantes
+1. Read our [contribution guide](CONTRIBUTING.md)  
+2. Review our [code of conduct](CODE_OF_CONDUCT.md)  
+3. Join our [Discord](https://discord.gg/6zBCHhc2) to connect  
+4. Explore the [existing issues](https://github.com/FlorianBx/weba11ylab/issues)
 
-## Licence
+## License
 
-Ce projet utilise la [licence MIT](LICENSE.md), à l'exception des éventuels logos et marques déposées qui pourraient être inclus dans la documentation.
+This project uses the [MIT license](LICENSE.md), except for any logos or trademarks that may be included in the documentation.
 
-## Contributeurs
+## Contributors
 
-> Nous remercions tous les contributeurs, qu'ils aient participé au code, à la documentation ou aux discussions. Chaque contribution enrichit ce projet.
+> We thank all contributors, whether for code, documentation, or discussions. Every contribution makes this project better.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
